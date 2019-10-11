@@ -21,13 +21,15 @@ function incrementScore(){
     $(".scoreCounter").text(sum);
 
     if(parseInt($(".randomNumber").text()) === sum){
-        console.log ("compare Success");
+        // console.log ("compare Success");
     wins++;
+    $(".status").text("You Won!");
     $(".wins").text("Wins: "+ wins);
     setDefaultValues();
     
     }else if(parseInt($(".randomNumber").text()) < sum){
-        console.log ("compare Failure");
+        // console.log ("compare Failure");
+        $(".status").text("You Lost!");
         losses++;
         $(".losses").text("Losses: "+ losses);
         setDefaultValues();
@@ -40,10 +42,10 @@ function incrementScore(){
  $("#image2").text(random4Crystals());
  $("#image3").text(random4Crystals());
  $("#image4").text(random4Crystals());
-console.log($("#image1").text());
-console.log($("#image2").text());
-console.log($("#image3").text());
-console.log($("#image4").text());
+// console.log($("#image1").text());
+// console.log($("#image2").text());
+// console.log($("#image3").text());
+// console.log($("#image4").text());
 
 //calling the function increment when a particular gem is clicked
 $("#image1").on("click", incrementScore);
@@ -61,10 +63,10 @@ function setDefaultValues(){
      $("#image2").text(random4Crystals());
      $("#image3").text(random4Crystals());
      $("#image4").text(random4Crystals());
-     console.log($("#image1").text());
-console.log($("#image2").text());
-console.log($("#image3").text());
-console.log($("#image4").text());
+//      console.log($("#image1").text());
+// console.log($("#image2").text());
+// console.log($("#image3").text());
+// console.log($("#image4").text());
 }
 
 

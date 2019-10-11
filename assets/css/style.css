@@ -46,9 +46,11 @@ width: 260px;
     float: left;
     background-color: aqua;
     width: 70px;
-    height: 40px;
+    height: 55px;
     padding: 20px;
+    padding-top: 5px;
     margin: 10px;
+    line-height: 25px;
     
 }
 /* image dimensions */
