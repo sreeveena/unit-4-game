@@ -21,5 +21,23 @@ width: 260px;
     width: 360px;
     padding: 20px;
     margin: 10px;
-    
+
+}
+/* random number generator */
+.randomNumber{
+    float: left; 
+    background-color:green;
+    width: 100px;
+    height: 40px;
+    padding: 20px;
+    margin: 10px;
+}
+/* score generator */
+.score{
+    float: left;
+    background-color: aqua;
+    width: 70px;
+    height: 40px;
+    padding: 20px;
+    margin: 10px;
 }
