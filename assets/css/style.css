@@ -1,0 +1,15 @@
+/* body of the page */
+body{
+    background: url(../images/beach.jpg) no-repeat; 
+    background-size: 960px 600px;
+}
+/* h1 tag in the index page for header */
+h1{
+color: white;
+background-color: coral;
+font-size: 2em;
+padding: 20px;
+margin: 10px;
+width: 260px;
+
+}
