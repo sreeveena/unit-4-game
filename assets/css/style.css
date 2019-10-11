@@ -1,7 +1,7 @@
 /* body of the page */
 body{
     background: url(../images/beach.jpg) no-repeat; 
-    background-size: 960px 730px;
+    background-size: 860px 730px;
 }
 /* h1 tag in the index page for header */
 h1{
@@ -37,6 +37,8 @@ width: 260px;
     height: 40px;
     padding: 20px;
     margin: 10px;
+    font-weight: bold;
+    font-size: 2em;
     
 }
 /* score generator */
@@ -64,6 +66,7 @@ img{
     padding: 5px;
     margin: 10px;
 }
+/* total score by clicking the gems. */
 .totalScore{
     background-color: rgb(67, 119, 93);
     color: white;
