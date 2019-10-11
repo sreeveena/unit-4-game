@@ -23,6 +23,12 @@ width: 260px;
     margin: 10px;
 
 }
+/* score and random number generator div */
+.scoreFloat{
+    height: 100px;
+    
+    width: 350px;
+}
 /* random number generator */
 .randomNumber{
     float: left; 
@@ -31,6 +37,7 @@ width: 260px;
     height: 40px;
     padding: 20px;
     margin: 10px;
+    
 }
 /* score generator */
 .score{
@@ -40,4 +47,11 @@ width: 260px;
     height: 40px;
     padding: 20px;
     margin: 10px;
+    
+}
+/* image dimensions */
+img{
+    margin-left: 10px;
+    height: 55px;
+    width: 55px;
 }
