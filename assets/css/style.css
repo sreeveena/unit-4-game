@@ -58,7 +58,7 @@ img{
     width: 55px;
 }
 /* score display message */
-.scoreDisplay{
+.totalScore{
     background-color: rgb(67, 119, 93);
     color: white;
     width: 200px;
@@ -67,11 +67,13 @@ img{
     margin: 10px;
 }
 /* total score by clicking the gems. */
-.totalScore{
+.scoreCounter{
     background-color: rgb(67, 119, 93);
     color: white;
     width: 200px;
     height: 80px;
     padding: 5px;
     margin: 10px;
+    font-weight: bold;
+    font-size: 2em;
 }
