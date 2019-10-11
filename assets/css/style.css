@@ -1,7 +1,7 @@
 /* body of the page */
 body{
     background: url(../images/beach.jpg) no-repeat; 
-    background-size: 960px 600px;
+    background-size: 960px 730px;
 }
 /* h1 tag in the index page for header */
 h1{
@@ -61,6 +61,14 @@ img{
     color: white;
     width: 200px;
     height: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+.totalScore{
+    background-color: rgb(67, 119, 93);
+    color: white;
+    width: 200px;
+    height: 80px;
     padding: 5px;
     margin: 10px;
 }
