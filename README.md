@@ -116,7 +116,7 @@ function setDefaultValues(){
 screenshot of the page
 index.html
 
-![image]("https://user-images.githubusercontent.com/7834767/66691669-cf3c0e80-ec4c-11e9-9fe1-efcd83b18214.png")
+![image]("https://user-images.githubusercontent.com/7834767/66691809-d6afe780-ec4d-11e9-90bc-34b5addae7df.png")
 
 
 ![image]("https://user-images.githubusercontent.com/7834767/66691682-eb3fb000-ec4c-11e9-855b-113a415fb3a2.png")
