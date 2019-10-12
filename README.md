@@ -122,3 +122,5 @@ index.html
 ![image]("https://user-images.githubusercontent.com/7834767/66691682-eb3fb000-ec4c-11e9-855b-113a415fb3a2.png")
 
 ![image]("https://user-images.githubusercontent.com/7834767/66691695-04486100-ec4d-11e9-8550-c3831345bc42.png")
+
+![image] ("https://github.com/sreeveena/unit-4-game/blob/master/assets/images/game1.png")
